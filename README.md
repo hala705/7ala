@@ -1,7 +1,9 @@
 # 7ala
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 # 💫 About Me:
+
 🔭 I’m currently working on competitive programming coding <br>🤝 I’m looking for help with starting my first project<br>🌱 I’m currently learning C++ <br>⚡ Fun fact: I'm 17 
+![](https://github.com/user-attachments/assets/7dd97a3d-694e-4de8-b460-353430b921c1)
 
 
 ## 🌐 Socials:
