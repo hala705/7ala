@@ -1,4 +1,5 @@
 # 7ala
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 # 💫 About Me:
 🔭 I’m currently working on competitive programming coding <br>🤝 I’m looking for help with starting my first project<br>🌱 I’m currently learning C++ <br>⚡ Fun fact: I'm 17 
 
