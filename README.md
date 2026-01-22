@@ -1,6 +1,6 @@
 # 7ala
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-# 💫 About Me:
+👀 About Me:
 
 🔭 I’m currently working on building my first app  <br>🤝 I’m looking for help with choosing my coding track <br>🌱 I’m currently learning front end  <br>⚡ Fun fact: I'm 17 
 
